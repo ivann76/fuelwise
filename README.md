@@ -16,3 +16,5 @@ Mobile update: sticky navigation, stacked history cards, full-width action butto
 Phone navigation: Overview and Fuel history are fixed to the bottom, with active indicators and safe-area padding.
 
 Mobile fill-up action: tap the central plus button between Overview and Fuel history.
+
+Design refresh (iPhone 16 Pro Max): safe-area aware layout for the Dynamic Island and home bar, floating bottom navigation with a raised "+" button, a hero distance card, the fill-up form as a slide-up bottom sheet, 16px inputs (no iOS zoom), and Add-to-Home-Screen support (apple-touch-icon.png + manifest.webmanifest).
