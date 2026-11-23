@@ -18,3 +18,5 @@ Phone navigation: Overview and Fuel history are fixed to the bottom, with active
 Mobile fill-up action: tap the central plus button between Overview and Fuel history.
 
 Design refresh (iPhone 16 Pro Max): safe-area aware layout for the Dynamic Island and home bar, floating bottom navigation with a raised "+" button, a hero distance card, the fill-up form as a slide-up bottom sheet, 16px inputs (no iOS zoom), and Add-to-Home-Screen support (apple-touch-icon.png + manifest.webmanifest).
+
+Monthly totals: "Fuel logged" and "Fuel spend" follow the month picker above the stats. It defaults to the current month, so a new month starts at zero automatically. Older months are never deleted: pick any month (or All time) to see its totals.
